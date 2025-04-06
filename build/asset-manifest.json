@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Foody-Zone/static/css/main.0537ced7.css",
+    "main.js": "/Foody-Zone/static/js/main.42885a31.js",
+    "static/media/header_image.jpg": "/Foody-Zone/static/media/header_image.1dc0f346d407fc577d16.jpg",
+    "index.html": "/Foody-Zone/index.html",
+    "static/media/loader.svg": "/Foody-Zone/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
+    "main.0537ced7.css.map": "/Foody-Zone/static/css/main.0537ced7.css.map",
+    "main.42885a31.js.map": "/Foody-Zone/static/js/main.42885a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0537ced7.css",
+    "static/js/main.42885a31.js"
+  ]
+}
